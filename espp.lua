@@ -24,7 +24,6 @@ button.MouseButton1Click:Connect(function()
 	VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.Return, false, game)
 end)
 
-loadstring(game:HttpGet"https://raw.githubusercontent.com/NukeVsCity/hackscript123/main/gui")()
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
